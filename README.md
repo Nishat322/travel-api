@@ -8,11 +8,11 @@ Client Repo: [https://github.com/Nishat322/travel-client](https://github.com/Nis
 
 ### Travel Endpoints 
 
-## /api/thoughts
+## /api/travel
      GET: Return an array of locations
      POST: Add a location to the list
 
-## /api/thoughts/:thought_id
+## /api/travel/:destination_id
      GET: Return a location
      DELETE: Delete the location from the array
     
