@@ -2,12 +2,19 @@
 
 Live Application:
 
-Client Repo: [https://github.com/Nishat322/thoughtful-client](https://github.com/Nishat322/thoughtful-client) <br/>
+Client Repo: [https://travel-client.vercel.app/](https://travel-client.vercel.app/) <br/>
 
 ## API Documentation
 
-### Thoughtful Endpoints 
+### Travel Endpoints 
 
+## /api/thoughts
+     GET: Return an array of locations
+     POST: Add a location to the list
+
+## /api/thoughts/:thought_id
+     GET: Return a location
+     DELETE: Delete the location from the array
     
 ## Tech Stack
 ### Backend
