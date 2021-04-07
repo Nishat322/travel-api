@@ -11,8 +11,6 @@ const db = knex ({
   connection: DATABASE_URL
 })
 
-console.log(DATABASE_URL)
-
 app.set('db', db)
 
 app.listen(PORT, () => {
