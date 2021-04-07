@@ -1,8 +1,8 @@
 # Travel Server
 
-Live Application:
+Live Application: [https://travel-client.vercel.app/](https://travel-client.vercel.app/) 
 
-Client Repo: [https://travel-client.vercel.app/](https://travel-client.vercel.app/) <br/>
+Client Repo: [https://github.com/Nishat322/travel-client](https://github.com/Nishat322/travel-client) <br/>
 
 ## API Documentation
 
